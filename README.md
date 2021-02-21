@@ -4,8 +4,11 @@ Modeling-Data-App is used to read, break the data and train a model  based on be
 
 Data is stored in pickled files
 original data : refined_profiles.pkl
+
 profiles clustered together based on answers : refined_cluster.pkl
+
 Vectoried text : vectorized_refined.pkl
+
 
 trained model : refined_model.joblib
 
