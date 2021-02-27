@@ -16,3 +16,8 @@ trained model : refined_model.joblib
 How to run
 
 After installing streamlit, open terminal in file directory and run command : streamlit run MatchMaking-App.py
+
+
+
+
+A new set of survey questions for the dating site is used in the "New Question set Survey"  folder, with  minimum information for clustering groups. 
